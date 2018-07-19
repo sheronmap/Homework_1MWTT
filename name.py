@@ -1,4 +1,4 @@
-# name
+# What is your name
 
 first_name = input("What's your first name? ")
 
